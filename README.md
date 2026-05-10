@@ -156,7 +156,8 @@ If you use this work, please cite:
 ## 🙋 Author
 
 **Amit Kalita**
-B.Tech CSE, BIT Mesra (Dibrugarh Campus)
+B.Tech CSE,Dibrugarh Univeristy
+
 [GitHub](https://github.com/Amit2004k)
 
 > 📌 *This is part of a series of published ML research repos. Check out my other work on DDI prediction, Alzheimer's detection, fraud detection, GNN congestion prediction, and more.*
